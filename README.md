@@ -1,6 +1,10 @@
-# react-webpack-airbnbjs-boilerplate
+# solidity-react-boilerplate
 
-Boilerplate for React and Webpack following [Airbnb's JavaScript (ES6) Style Guide](https://github.com/airbnb/javascript).
+**DO NOT USE. THIS IS STILL WORK IN PROGRESS.** 
+
+Boilerplate for Ethereum's Solidity, React and Webpack following [Airbnb's JavaScript (ES6) Style Guide](https://github.com/airbnb/javascript).
+
+
 
 ## What is this
 
